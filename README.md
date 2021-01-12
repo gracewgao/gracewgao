@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-gracewgao-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracewgao/)](https://www.linkedin.com/in/gracewgao/)
 [![Outlook](https://img.shields.io/badge/-ggaoww@gmail.com-222222?style=flat&logo=Gmail&logoColor=white&link=mailto:ggaoww@gmail.com)](mailto:ggaoww@gmail.com)
 
-🎓 Software Engineering Student @ the University of Waterloo <br />
+🎓 Software Engineering 2025 @ the University of Waterloo <br />
 🌱 I'm currently learning: React, MongoDB, Node.js <br />
 ✨ Favourites: Python, Java, Android Studio, Firebase, Visual Studio, Flask, SQLite <br />
 😄 Pronouns: she/her
