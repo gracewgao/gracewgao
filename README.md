@@ -8,9 +8,9 @@
 ✨ Favourites: Python, Java, Android Studio, Firebase, Visual Studio, Flask, SQLite <br />
 😄 Pronouns: she/her
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gracewgao&hide=issues&count_private=true&show_icons=true&theme=dracula" />
+Find out more about me at [gracewgao.me](https://gracewgao.me/)
 
-Find out more about me on [my personal website](https://gracewgao.me/)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gracewgao&hide=issues&count_private=true&show_icons=true&theme=dracula" />
 
 <!--
 **gracewgao/gracewgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
