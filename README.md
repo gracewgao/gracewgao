@@ -3,10 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/-gracewgao-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracewgao/)](https://www.linkedin.com/in/gracewgao/)
 [![Outlook](https://img.shields.io/badge/-ggaoww@gmail.com-222222?style=flat&logo=Gmail&logoColor=white&link=mailto:ggaoww@gmail.com)](mailto:ggaoww@gmail.com)
 
-🎓 Software Engineering 2025 @ the University of Waterloo <br />
-🌱 I'm currently learning: React, MongoDB, Node.js <br />
-✨ Favourites: Python, Java, Android Studio, Firebase, Visual Studio, Flask, SQLite <br />
-😄 Pronouns: she/her
+✨ Pronouns: she/her <br />
+🎓 1st Year Software Engineering @ University of Waterloo <br />
+📍 Ottawa, Canada <br />
+🎨 Hobbies include painting & grocery shopping :) <br />
+💻 Organizer @ [Hack the North](https://hackthenorth.com/), [SET.Hacks](https://sethacks.ca/), [TOHacks](https://www.tohacks.ca/) <br />
 
 Find out more about me at [gracewgao.me](https://gracewgao.me/)
 
