@@ -9,8 +9,6 @@
 🎨 Hobbies include painting & grocery shopping :) <br />
 💻 Organizer @ [Hack the North](https://hackthenorth.com/), [SET.Hacks](https://sethacks.ca/), [TOHacks](https://www.tohacks.ca/) <br />
 
-Find out more about me at [gracewgao.me](https://gracewgao.me/)
-
 <!--
 **gracewgao/gracewgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
