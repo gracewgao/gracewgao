@@ -4,7 +4,7 @@
 [![Outlook](https://img.shields.io/badge/-ggaoww@gmail.com-222222?style=flat&logo=Gmail&logoColor=white&link=mailto:ggaoww@gmail.com)](mailto:ggaoww@gmail.com)
 
 ✨ Pronouns: she/her <br />
-🎓 1st Year Software Engineering @ University of Waterloo <br />
+🎓 Software Engineering @ University of Waterloo <br />
 📍 Ottawa, Canada <br />
 🎨 Hobbies include painting & grocery shopping :) <br />
 💻 Organizer @ [Hack the North](https://hackthenorth.com/), [SET.Hacks](https://sethacks.ca/), [TOHacks](https://www.tohacks.ca/) <br />
