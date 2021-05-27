@@ -6,8 +6,7 @@
 ✨ Pronouns: she/her <br />
 🎓 Software Engineering @ University of Waterloo <br />
 📍 Ottawa, Canada <br />
-🎨 Hobbies include painting & grocery shopping :) <br />
-💻 Organizer @ [Hack the North](https://hackthenorth.com/), [SET.Hacks](https://sethacks.ca/), [TOHacks](https://www.tohacks.ca/) <br />
+💻 Organizer @ [Hack the North](https://hackthenorth.com/) & [SET.Hacks](https://sethacks.ca/)
 
 <!--
 **gracewgao/gracewgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
