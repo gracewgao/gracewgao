@@ -3,9 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/-gracewgao-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gracewgao/)](https://www.linkedin.com/in/gracewgao/)
 [![Outlook](https://img.shields.io/badge/-ggaoww@gmail.com-222222?style=flat&logo=Gmail&logoColor=white&link=mailto:ggaoww@gmail.com)](mailto:ggaoww@gmail.com)
 
-✨ Pronouns: she/her <br />
-🎓 Software Engineering @ University of Waterloo <br />
-📍 Ottawa, Canada
+✨ she/her <br />
+🎓 studying software engineering @ uwaterloo <br />
 
 <!--
 **gracewgao/gracewgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
