@@ -4,7 +4,8 @@
 [![Outlook](https://img.shields.io/badge/-ggaoww@gmail.com-222222?style=flat&logo=Gmail&logoColor=white&link=mailto:ggaoww@gmail.com)](mailto:ggaoww@gmail.com)
 
 ✨ she/her <br />
-🎓 studying software engineering @ uwaterloo <br />
+🎓 software engineering @ uwaterloo <br />
+🌱 frontend engineering intern @ faire <br />
 
 <!--
 **gracewgao/gracewgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
