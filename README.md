@@ -5,7 +5,7 @@
 
 ✨ she/her <br />
 🎓 software engineering @ uwaterloo <br />
-🌱 frontend engineering intern @ faire <br />
+🌱 seeking fall 2022 internships! <br />
 
 <!--
 **gracewgao/gracewgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
